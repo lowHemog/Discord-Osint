@@ -1,3 +1,5 @@
-Hello, this tool is used to perform osint on Discord.
-First, run the setup to install dependencies.
-Afterward, an .exe file will be created. Double-click it and make good use of our dashboard!
+Hello, this tool is used to run OSINT on Discord.
+
+First, run the setup to install the dependencies.
+
+Then, run the .exe from the terminal and enjoy!
